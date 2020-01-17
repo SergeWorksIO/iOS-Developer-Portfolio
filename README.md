@@ -15,7 +15,15 @@ I focus a lot on software architecture; how to make maintainable, reusable, and 
       Graduation: December 2018
    </p>
    <h3>Projects:</h3>
-   <h4>Atmospher for Skylight</h4>
+   <h4>Atmospher for Skylight (May 2019 - Oct 2019)</h4>
+   <div class="row">
+      <div class="column">
+         <img src = "/Portfolio_Assets/Atmosphere/Home_Screen.png" width="216" height="412">
+      </div> 
+      <div class="column">
+         </img><img src = "/Portfolio_Assets/Atmosphere/Voice_Command.png" width="216" height="412"></img>
+      </div>
+  </div>
    <h5>Overview:</h5>
    <p>
       Atmosphere is a work order management application.  It operates under the CRUD (create, update, read, and delete) operations found in most data repositories and allow users to create, assign, and update the status of work orders. The content and operations available to each user are dependent on their role in their organization.
