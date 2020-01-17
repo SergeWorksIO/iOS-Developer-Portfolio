@@ -25,7 +25,7 @@ I focus a lot on software architecture; how to make maintainable, reusable, and 
    </p>
    <h5>Technologies used:</h5>
    <ul>
-   <li><a href="https://swift.org/blog/swift-5-released/">Swift 5</a></>
+      <li><a href="https://swift.org/blog/swift-5-released/">Swift 5</a></>
       <li><a href="https://realm.io">Realm</a></li>
       <li><a href="https://developer.spotify.com/documentation/web-api/">Spotify Web API</a></li>
       <li><a href="https://rapidapi.com/LDVIN/api/billboard-api/details">Billboard API</a></li>
@@ -46,5 +46,13 @@ The beauty of Atmosphere is that it provides its users with different ways to cr
       <li>Developed a camera mechanism to allow users to add photos of their work order</li>
       <li>Developed an image preview mechanism that allowed the annotation of work order images</li>
       <li>Leveraged internal APIs to create a document management system to allow users to add, preview, edit, and delete multiple photos in new or existing work orders</li>
+   </ul>
+   
+   <h4>Rage Cage</h4>
+   <h5>Overview:</h5>
+   <h5>Technologies Used:</h5>
+   <ul>
+      <li><a href="https://swift.org/blog/swift-5-released/">Swift 5</a></>
+      <li><a href="https://developer.apple.com/spritekit//">SpriteKit Framework</a></>
    </ul>
 </html>
