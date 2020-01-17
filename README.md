@@ -15,7 +15,7 @@ I focus a lot on software architecture; how to make maintainable, reusable, and 
       Graduation: December 2018
    </p>
    <h3>Projects:</h3>
-   <h4>Atmospher for Skylight (May 2019 - Oct 2019)</h4>
+   <h4><a href="https://apps.apple.com/us/app/atmosphere-for-skylight/id1463087351/">Atmospher for Skylight</a> (May 2019 - Oct 2019)</h4>
    <div class="row">
       <div class="column">
          <img src = "/Portfolio_Assets/Atmosphere/Home_Screen.png" width="216" height="412">
