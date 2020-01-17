@@ -19,6 +19,10 @@ I focus a lot on software architecture; how to make maintainable, reusable, and 
    <h3>Projects:</h3>
    <h4>Tune Machine (December 2019 - Present)</h4>
    <h5>Overview:</h5>
+   <p>
+   Tune Machine is an application that allows users to browse the top 50 songs trending at a specific point in time and export them in the form of a playlist to their Spotify accounts.</br> 
+   This application is currently under review by Spotify and Apple App Store.
+   </p>
    <h5>Technologies used:</h5>
    <ul>
    <li><a href="https://swift.org/blog/swift-5-released/">Swift 5</a></>
