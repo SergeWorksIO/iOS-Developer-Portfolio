@@ -50,6 +50,9 @@ The beauty of Atmosphere is that it provides its users with different ways to cr
    
    <h4>Rage Cage</h4>
    <h5>Overview:</h5>
+   <p>
+      Rage Cage is a hyper-casual game inspired by the famous game Flappy Bird in which users manipulate the bounce of a ping pong ball and attempt to land it in the opening of a stack of cups to score points. 
+   </p>
    <h5>Technologies Used:</h5>
    <ul>
       <li><a href="https://swift.org/blog/swift-4-0-released/">Swift </a></>
