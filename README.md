@@ -32,7 +32,7 @@ I focus a lot on software architecture; how to make maintainable, reusable, and 
       
    </ul>
    
-   <h4><a href="https://apps.apple.com/us/app/atmosphere-for-skylight/id1463087351/">Atmospher for Skylight</a> (May 2019 - Oct 2019)</h4>
+   <h4><a href="https://apps.apple.com/us/app/atmosphere-for-skylight/id1463087351/">Atmosphere for Skylight</a> (May 2019 - Oct 2019)</h4>
    <h5>Overview:</h5>
    <p>
       Atmosphere is a work order management application.  It operates under the CRUD (create, update, read, and delete) operations found in most data repositories and allow users to create, assign, and update the status of work orders. The content and operations available to each user are dependent on their role in their organization.
