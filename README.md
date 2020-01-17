@@ -52,7 +52,7 @@ The beauty of Atmosphere is that it provides its users with different ways to cr
    <h5>Overview:</h5>
    <h5>Technologies Used:</h5>
    <ul>
-      <li><a href="https://swift.org/blog/swift-5-released/">Swift 5</a></>
+      <li><a href="https://swift.org/blog/swift-4-0-released/">Swift </a></>
       <li><a href="https://developer.apple.com/spritekit//">SpriteKit Framework</a></>
    </ul>
 </html>
