@@ -29,7 +29,7 @@ I focus a lot on software architecture; how to make maintainable, reusable, and 
       <li><a href="https://realm.io">Realm</a></li>
       <li><a href="https://developer.spotify.com/documentation/web-api/">Spotify Web API</a></li>
       <li><a href="https://rapidapi.com/LDVIN/api/billboard-api/details">Billboard API</a></li>
-      
+      <li><a href="https://admob.google.com/home/"> Google AdMob</a></li>
    </ul>
    
    <h4><a href="https://apps.apple.com/us/app/atmosphere-for-skylight/id1463087351/">Atmosphere for Skylight</a> (May 2019 - Oct 2019)</h4>
@@ -57,5 +57,6 @@ The beauty of Atmosphere is that it provides its users with different ways to cr
    <ul>
       <li><a href="https://swift.org/blog/swift-4-0-released/">Swift </a></>
       <li><a href="https://developer.apple.com/spritekit//">SpriteKit Framework</a></>
+      <li><a href="https://admob.google.com/home/"> Google AdMob</a></li>
    </ul>
 </html>
