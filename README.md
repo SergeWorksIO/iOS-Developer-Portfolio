@@ -4,17 +4,31 @@
    <h2>Sergio Rosendo</h2>
    <h3>About Me:</h3>
    <p>
+   
       I'm a software engineer based in Mission Viejo, CA, who is passionate about building mobile applications for iPhone devices.
 I love the development process for building applications, from planning to prototyping to turning those prototypes into working products and getting them in the hands of people all over the world.
 I focus a lot on software architecture; how to make maintainable, reusable, and efficient code. 
    </p>
+   
    <h3>Education:</h3>
    <p>
       <b>University of California, Merced</b></br>
       B.S. Computer Science & Engineering</br>
       Graduation: December 2018
    </p>
+   
    <h3>Projects:</h3>
+   <h4>Tune Machine (December 2019 - Present)</h4>
+   <h5>Overview:</h5>
+   <h5>Technologies used:</h5>
+   <ul>
+      <li>Swift 5</>
+      <li><a href="https://realm.io">Realm</a></li>
+      <li><a href="https://developer.spotify.com/documentation/web-api/">Spotify Web API</a></li>
+      <li><a href="https://rapidapi.com/LDVIN/api/billboard-api/details">Billboard API</a></li>
+      
+   </ul>
+   
    <h4><a href="https://apps.apple.com/us/app/atmosphere-for-skylight/id1463087351/">Atmospher for Skylight</a> (May 2019 - Oct 2019)</h4>
    <h5>Overview:</h5>
    <p>
