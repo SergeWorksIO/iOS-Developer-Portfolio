@@ -48,6 +48,18 @@ The beauty of Atmosphere is that it provides its users with different ways to cr
       <li>Leveraged internal APIs to create a document management system to allow users to add, preview, edit, and delete multiple photos in new or existing work orders</li>
    </ul>
    
+   <h4>Book Search</h4>
+   <h5>Overview:</h5>
+   <p>
+      Book search is an application that allows users to browse books in the Open Library's website catalog and add their favorite to a wish list.</br> 
+      I created this project to get a better understanding of the <a href="https://developer.apple.com/documentation/swift/codable">Codable Protocol</a> used to parse JSON data received when making API calls. It was also an opportunity for me to challenge my skills by programmatically creating a complex user interface using collection views and animations. 
+   </p>
+   <h5>Technologies Used:</h5>
+   <ul>
+   <li><a href="https://openlibrary.org/dev/docs/api/search">Open Library Search AP</a></li>
+   <li><a href="https://realm.io">Realm</a></li>
+   </ul>
+   
    <h4>Rage Cage (Aug 2018 - Dec 2018)</h4>
    <h5>Overview:</h5>
    <p>
