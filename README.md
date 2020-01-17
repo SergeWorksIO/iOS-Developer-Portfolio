@@ -22,7 +22,7 @@ I focus a lot on software architecture; how to make maintainable, reusable, and 
    <h5>Overview:</h5>
    <h5>Technologies used:</h5>
    <ul>
-      <li>Swift 5</>
+   <li><a href="https://swift.org/blog/swift-5-released/">Swift 5</a></>
       <li><a href="https://realm.io">Realm</a></li>
       <li><a href="https://developer.spotify.com/documentation/web-api/">Spotify Web API</a></li>
       <li><a href="https://rapidapi.com/LDVIN/api/billboard-api/details">Billboard API</a></li>
