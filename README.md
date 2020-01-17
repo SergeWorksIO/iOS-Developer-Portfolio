@@ -48,7 +48,7 @@ The beauty of Atmosphere is that it provides its users with different ways to cr
       <li>Leveraged internal APIs to create a document management system to allow users to add, preview, edit, and delete multiple photos in new or existing work orders</li>
    </ul>
    
-   <h4>Rage Cage (Aug 2018 - Dec 2019)</h4>
+   <h4>Rage Cage (Aug 2018 - Dec 2018)</h4>
    <h5>Overview:</h5>
    <p>
       Rage Cage is a hyper-casual game inspired by the famous game Flappy Bird in which users manipulate the bounce of a ping pong ball and attempt to land it in the opening of a stack of cups to score points.</br> 
