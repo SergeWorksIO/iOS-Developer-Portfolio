@@ -48,7 +48,7 @@ The beauty of Atmosphere is that it provides its users with different ways to cr
       <li>Leveraged internal APIs to create a document management system to allow users to add, preview, edit, and delete multiple photos in new or existing work orders</li>
    </ul>
    
-   <h4>Book Search</h4>
+   <h4>Book Search (May 2019)</h4>
    <h5>Overview:</h5>
    <p>
       Book search is an application that allows users to browse books in the Open Library's website catalog and add their favorite to a wish list.</br> 
@@ -56,6 +56,7 @@ The beauty of Atmosphere is that it provides its users with different ways to cr
    </p>
    <h5>Technologies Used:</h5>
    <ul>
+   <li><a href="https://swift.org/blog/swift-5-released/">Swift 5</a></>
    <li><a href="https://openlibrary.org/dev/docs/api/search">Open Library Search AP</a></li>
    <li><a href="https://realm.io">Realm</a></li>
    </ul>
@@ -68,7 +69,7 @@ This was my first publication to the Apple App Store and my first attempt to adv
    </p>
    <h5>Technologies Used:</h5>
    <ul>
-      <li><a href="https://swift.org/blog/swift-4-0-released/">Swift </a></>
+      <li><a href="https://swift.org/blog/swift-4-0-released/">Swift 4</a></>
       <li><a href="https://developer.apple.com/spritekit//">SpriteKit Framework</a></>
       <li><a href="https://admob.google.com/home/"> Google AdMob</a></li>
    </ul>
