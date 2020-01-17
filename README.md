@@ -4,7 +4,6 @@
    <h2>Sergio Rosendo</h2>
    <h3>About Me:</h3>
    <p>
-   
       I'm a software engineer based in Mission Viejo, CA, who is passionate about building mobile applications for iPhone devices.
 I love the development process for building applications, from planning to prototyping to turning those prototypes into working products and getting them in the hands of people all over the world.
 I focus a lot on software architecture; how to make maintainable, reusable, and efficient code. 
