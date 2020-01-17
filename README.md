@@ -51,7 +51,7 @@ The beauty of Atmosphere is that it provides its users with different ways to cr
    <h4>Rage Cage (Aug 2018 - Dec 2019)</h4>
    <h5>Overview:</h5>
    <p>
-      Rage Cage is a hyper-casual game inspired by the famous game Flappy Bird in which users manipulate the bounce of a ping pong ball and attempt to land it in the opening of a stack of cups to score points. 
+      Rage Cage is a hyper-casual game inspired by the famous game Flappy Bird in which users manipulate the bounce of a ping pong ball and attempt to land it in the opening of a stack of cups to score points.</br> 
 This was my first publication to the Apple App Store and my first attempt to advertise and monetize my work.
    </p>
    <h5>Technologies Used:</h5>
