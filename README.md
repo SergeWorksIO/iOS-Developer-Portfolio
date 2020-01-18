@@ -108,6 +108,8 @@ This application allows users to enter both the current location and destination
       Go Too is an application that creates virtual communities for students in the same class and to provide them with several forms of communication that they can use to collaborate and help one another.
 This project introduced me to iOS development and stirred my focus as a software engineer towards mobile application development.
    </p>
+   <h5>Contributions:</h5>
+   
    <h5>Technologies Used:</h5>
    <ul>
       <li><a href="https://swift.org/blog/swift-4-0-released/">Swift 4</a></>
