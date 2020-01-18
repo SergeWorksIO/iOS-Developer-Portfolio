@@ -92,7 +92,7 @@ This application allows users to enter both the current location and destination
       <li>Refined prototypes for presentations and created final designs</li>
       <li>Developed a page that allows users to access each bus line's Twitter feed that bus drivers use to notify bus riders of traffic updates</li>
       <li>Developed the application's main navigation menu (animated)</li>
-      <li>Conducted users search to compare the performance and user experience of the school's bus website and mobile application</li>
+      <li>Conducted users search comparing the performance and user experience of the school's bus website and mobile application</li>
    </ul>
    <h5>Technologies Used:</h5>
    <ul>
