@@ -76,10 +76,10 @@ This was my first publication to the Apple App Store and my first attempt to adv
       <li><a href="https://admob.google.com/home/"> Google AdMob</a></li>
       <li><a href="https://www.sketch.com">Sketch</a></li>
    </ul>
-   
+  
    <h4>Cat Tracks</h4>
-   <h5>Overview</5>
-   <h5>Technologies Used:</5>
+   <h5>Overview</h5>
+   <h5>Technologies Used:</h5>
    <ul>
       <li><a href="https://docs.oracle.com/javase/7/docs/technotes/guides/language/">Java</a></li>
       <li><a href="https://www.sqlite.org/index.html">SQLite</a></li>
