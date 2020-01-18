@@ -101,4 +101,8 @@ This application allows users to enter both the current location and destination
       <li><a href="https://developer.android.com/studio">Android Studio</a></li>
       <li><a href="https://www.sketch.com">Sketch</a></li>
    </ul>
+   
+   <h4>Go Too (Feb 2018 - May 2018)</h4>
+   <h5>Overview:</h5>
+   <h5>Technologies Used:</h5>
 </html>
