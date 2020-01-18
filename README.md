@@ -30,6 +30,7 @@ I focus a lot on software architecture; how to make maintainable, reusable, and 
       <li><a href="https://developer.spotify.com/documentation/web-api/">Spotify Web API</a></li>
       <li><a href="https://rapidapi.com/LDVIN/api/billboard-api/details">Billboard API</a></li>
       <li><a href="https://admob.google.com/home/"> Google AdMob</a></li>
+      <li><a href="https://developer.apple.com/xcode/ide/">XCode</a></li>
       <li><a href="https://www.sketch.com">Sketch</a></li>
    </ul>
    
@@ -60,6 +61,8 @@ The beauty of Atmosphere is that it provides its users with different ways to cr
    <li><a href="https://swift.org/blog/swift-5-released/">Swift 5</a></>
    <li><a href="https://openlibrary.org/dev/docs/api/search">Open Library Search AP</a></li>
    <li><a href="https://realm.io">Realm</a></li>
+   <li><a href="https://developer.apple.com/xcode/ide/">XCode</a></li>
+   <li><a href="https://developer.apple.com/xcode/ide/">XCode</a></li>
    <li><a href="https://www.sketch.com">Sketch</a></li>
    </ul>
    
@@ -74,6 +77,7 @@ This was my first publication to the Apple App Store and my first attempt to adv
       <li><a href="https://swift.org/blog/swift-4-0-released/">Swift 4</a></>
       <li><a href="https://developer.apple.com/spritekit//">SpriteKit Framework</a></>
       <li><a href="https://admob.google.com/home/"> Google AdMob</a></li>
+      <li><a href="https://developer.apple.com/xcode/ide/">XCode</a></li>
       <li><a href="https://www.sketch.com">Sketch</a></li>
    </ul>
   
@@ -87,6 +91,7 @@ This application allows users to enter both the current location and destination
    <ul>
       <li><a href="https://docs.oracle.com/javase/7/docs/technotes/guides/language/">Java</a></li>
       <li><a href="https://www.sqlite.org/index.html">SQLite</a></li>
+      <li>><a hred="https://developer.android.com/studio">Android Studio</a></li>
       <li><a href="https://www.sketch.com">Sketch</a></li>
    </ul>
 </html>
