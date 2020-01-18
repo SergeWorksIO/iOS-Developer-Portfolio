@@ -84,5 +84,5 @@ This was my first publication to the Apple App Store and my first attempt to adv
       <li><a href="https://docs.oracle.com/javase/7/docs/technotes/guides/language/">Java</a></li>
       <li><a href="https://www.sqlite.org/index.html">SQLite</a></li>
       <li><a href="https://www.sketch.com">Sketch</a></li>
-   <\ul>
+   </ul>
 </html>
