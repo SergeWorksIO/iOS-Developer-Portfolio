@@ -87,6 +87,13 @@ This was my first publication to the Apple App Store and my first attempt to adv
       Cat Tracks is an application created for the University of California, Merced's bus system. Its goal is to provide students a fast and interactive way to read the school's bus schedule. 
 This application allows users to enter both the current location and destination in the form of bus stops or landmarks. It then determines and presents the bus lines connecting these two locations along with a list of departure and arrival times.
    </p>
+   <h5>Contributions:</h5>
+   <ul>
+      <li>Refined prototypes for presentations and created final designs</li>
+      <li>Developed a page that allows users to access each bus line's Twitter feed that bus drivers use to notify bus riders of traffic updates</li>
+      <li>Developed the application's main navigation menu (animated)</li>
+      <li>Conducted users search to compare the performance and user experience of the school's bus website and mobile application</li>
+   </ul>
    <h5>Technologies Used:</h5>
    <ul>
       <li><a href="https://docs.oracle.com/javase/7/docs/technotes/guides/language/">Java</a></li>
