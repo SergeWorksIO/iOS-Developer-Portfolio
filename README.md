@@ -81,7 +81,7 @@ This was my first publication to the Apple App Store and my first attempt to adv
       <li><a href="https://www.sketch.com">Sketch</a></li>
    </ul>
   
-   <h4>Cat Tracks</h4>
+   <h4>Cat Tracks (Aug 2018 - Dec 2018)</h4>
    <h5>Overview:</h5>
    <p>
       Cat Tracks is an application created for the University of California, Merced's bus system. Its goal is to provide students a fast and interactive way to read the school's bus schedule. 
