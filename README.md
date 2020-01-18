@@ -91,7 +91,7 @@ This application allows users to enter both the current location and destination
    <ul>
       <li><a href="https://docs.oracle.com/javase/7/docs/technotes/guides/language/">Java</a></li>
       <li><a href="https://www.sqlite.org/index.html">SQLite</a></li>
-      <li><a hred="https://developer.android.com/studio">Android Studio</a></li>
+      <li><a href="https://developer.android.com/studio">Android Studio</a></li>
       <li><a href="https://www.sketch.com">Sketch</a></li>
    </ul>
 </html>
