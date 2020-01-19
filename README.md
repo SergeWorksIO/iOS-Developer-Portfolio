@@ -71,6 +71,10 @@ The beauty of Atmosphere is that it provides its users with different ways to cr
    </ul>
    
    <h4>Rage Cage (Aug 2018 - Dec 2018)</h4>
+      <p float="left">
+      <img src="/Portfolio_Assets/Rage_Cage/Home.png" width="216" height="432">
+      <img src="/Portfolio_Assets/Rage_Cage/Game_Play_One.png" width="216" height="432">
+   </p>
    <h5>Overview:</h5>
    <p>
       Rage Cage is a hyper-casual game inspired by the famous game Flappy Bird in which users manipulate the bounce of a ping pong ball and attempt to land it in the opening of a stack of cups to score points.</br> 
