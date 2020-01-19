@@ -112,8 +112,7 @@ This project introduced me to iOS development and stirred my focus as a software
    <ul>
       <li>Created application's prototypes and final designs</li>
       <li>Developed user login and password recovery wizard</li>
-      <li>Developed home screen</li>
-      <li></li>
+      <li>Developed home screen and app navigation functionality</li>
    </ul>
    
    <h5>Technologies Used:</h5>
