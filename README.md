@@ -109,6 +109,12 @@ This application allows users to enter both the current location and destination
 This project introduced me to iOS development and stirred my focus as a software engineer towards mobile application development.
    </p>
    <h5>Contributions:</h5>
+   <ul>
+      <li>Created application's prototypes and final designs</li>
+      <li>Developed user login and password recovery wizard</li>
+      <li>Developed home screen</li>
+      <li></li>
+   </ul>
    
    <h5>Technologies Used:</h5>
    <ul>
