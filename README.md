@@ -61,6 +61,12 @@ The beauty of Atmosphere is that it provides its users with different ways to cr
    </ul>
    
    <h4>Book Search (May 2019)</h4>
+    <p float="left">
+      <img src="/Portfolio_Assets/Tune_Machine/Log_In.png" width="207" height="414">
+      <img src="/Portfolio_Assets/Tune_Machine/Spotify_Auth.png" width="207" height="414">
+      <img src="/Portfolio_Assets/Tune_Machine/Date_Selection.png" width="207" height="414">
+      <img src="/Portfolio_Assets/Tune_Machine/Music_List.png" width="207" height="414">
+   </p>
    <h5>Overview:</h5>
    <p>
       Book search is an application that allows users to browse books in the Open Library's website catalog and add their favorite to a wish list.</br> 
