@@ -62,10 +62,10 @@ The beauty of Atmosphere is that it provides its users with different ways to cr
    
    <h4>Book Search (May 2019)</h4>
     <p float="left">
-      <img src="/Portfolio_Assets/Tune_Machine/Log_In.png" width="207" height="414">
-      <img src="/Portfolio_Assets/Tune_Machine/Spotify_Auth.png" width="207" height="414">
-      <img src="/Portfolio_Assets/Tune_Machine/Date_Selection.png" width="207" height="414">
-      <img src="/Portfolio_Assets/Tune_Machine/Music_List.png" width="207" height="414">
+      <img src="/Portfolio_Assets/Book_Search/Search.png" width="207" height="414">
+      <img src="/Portfolio_Assets/Book_Search/Search_Results.png" width="207" height="414">
+      <img src="/Portfolio_Assets/Book_Search/Book_Details.png" width="207" height="414">
+      <img src="/Portfolio_Assets/Book_Search/Wish_List.png" width="207" height="414">
    </p>
    <h5>Overview:</h5>
    <p>
