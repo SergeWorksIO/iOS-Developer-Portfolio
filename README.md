@@ -18,6 +18,11 @@ I focus a lot on software architecture; how to make maintainable, reusable, and 
    
    <h3>Projects:</h3>
    <h4>Tune Machine (December 2019 - Present)</h4>
+    <p float="left">
+      <img src="/Portfolio_Assets/Tune_Machine/Log_In.png" width="216" height="432">
+      <img src="/Portfolio_Assets/Tune_Machine/Date_Selection.png" width="216" height="432">
+      <img src="/Portfolio_Assets/Tune_Machine/Music_List.png" width="216" height="432">
+   </p>
    <h5>Overview:</h5>
    <p>
    Tune Machine is an application that allows users to browse the top 50 songs trending at a specific point in time and export them in the form of a playlist to their Spotify accounts.</br> 
