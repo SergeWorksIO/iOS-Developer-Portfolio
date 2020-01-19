@@ -19,10 +19,10 @@ I focus a lot on software architecture; how to make maintainable, reusable, and 
    <h3>Projects:</h3>
    <h4>Tune Machine (December 2019 - Present)</h4>
     <p float="left">
-      <img src="/Portfolio_Assets/Tune_Machine/Log_In.png" width="216" height="432">
-      <img src="/Portfolio_Assets/Tune_Machine/Spotify_Auth.png" width="216" height="432">
-      <img src="/Portfolio_Assets/Tune_Machine/Date_Selection.png" width="216" height="432">
-      <img src="/Portfolio_Assets/Tune_Machine/Music_List.png" width="216" height="432">
+      <img src="/Portfolio_Assets/Tune_Machine/Log_In.png" width="207" height="414">
+      <img src="/Portfolio_Assets/Tune_Machine/Spotify_Auth.png" width="207" height="414">
+      <img src="/Portfolio_Assets/Tune_Machine/Date_Selection.png" width="207" height="414">
+      <img src="/Portfolio_Assets/Tune_Machine/Music_List.png" width="207" height="414">
    </p>
    <h5>Overview:</h5>
    <p>
