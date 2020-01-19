@@ -130,6 +130,11 @@ This application allows users to enter both the current location and destination
    </ul>
    
    <h4>Go Too (Feb 2018 - May 2018)</h4>
+      <p float="left">
+      <img src="/Portfolio_Assets/Go_Too/Log_In.png" width="207" height="414">
+      <img src="/Portfolio_Assets/Go_Too/Home.png" width="207" height="414">
+      <img src="/Portfolio_Assets/Go_Too/Recovery.png" width="207" height="414">
+   </p>
    <h5>Overview:</h5>
    <p>
       Go Too is an application that creates virtual communities for students in the same class and to provide them with several forms of communication that they can use to collaborate and help one another.
