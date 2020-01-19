@@ -74,6 +74,7 @@ The beauty of Atmosphere is that it provides its users with different ways to cr
       <p float="left">
       <img src="/Portfolio_Assets/Rage_Cage/Home.png" width="216" height="432">
       <img src="/Portfolio_Assets/Rage_Cage/Game_Play_One.png" width="216" height="432">
+      <img src="/Portfolio_Assets/Rage_Cage/Game_Play_Two.png" width="216" height="432">
    </p>
    <h5>Overview:</h5>
    <p>
