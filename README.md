@@ -103,6 +103,12 @@ This was my first publication to the Apple App Store and my first attempt to adv
    </ul>
   
    <h4>Cat Tracks (Aug 2018 - Dec 2018)</h4>
+   <p float="left">
+      <img src="/Portfolio_Assets/Cat_Tracks/Home.png" width="207" height="414">
+      <img src="/Portfolio_Assets/Cat_Tracks/Stops.png" width="207" height="414">
+      <img src="/Portfolio_Assets/Cat_Tracks/Maps.png" width="207" height="414">
+      <img src="/Portfolio_Assets/Cat_Tracks/Twitter.png" width="207" height="414">
+   </p>
    <h5>Overview:</h5>
    <p>
       Cat Tracks is an application created for the University of California, Merced's bus system. Its goal is to provide students a fast and interactive way to read the school's bus schedule. 
