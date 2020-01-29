@@ -17,7 +17,7 @@ I focus a lot on software architecture; how to make maintainable, reusable, and 
    </p>
    
    <h3>Projects:</h3>
-   <h4>Tune Machine (December 2019 - Present)</h4>
+   <h4><a href = "https://apps.apple.com/us/app/tune-machine/id1496264866?ls=1">Tune Machine </a>(December 2019 - Present)</h4>
     <p float="left">
       <img src="/Portfolio_Assets/Tune_Machine/Log_In.png" width="207" height="414">
       <img src="/Portfolio_Assets/Tune_Machine/Spotify_Auth.png" width="207" height="414">
@@ -27,7 +27,6 @@ I focus a lot on software architecture; how to make maintainable, reusable, and 
    <h5>Overview:</h5>
    <p>
    Tune Machine is an application that allows users to browse the top 50 songs trending at a specific point in time and export them in the form of a playlist to their Spotify accounts.</br> 
-   This application is currently under review by Spotify and Apple App Store.
    </p>
    <h5>Technologies used:</h5>
    <ul>
